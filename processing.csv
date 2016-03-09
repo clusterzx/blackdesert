@@ -1,0 +1,21 @@
+profession,level,percentage,number,type,end_profession,end_level,end_percentage,produced,total,cost_per_process,energy_cost,percentage_increase,luck,bonus
+beginner,7,94,300,fir timber,beginner,9,55,fir plank,90,5,57,161,0,0
+beginner,9,59,300,cedar timber,beginner,10,80,cedar plank,90,5,49,121,0,0
+beginner,10,80,300,cedar timber,apprentice,1,75,cedar plank,93,5,48,95,0,0
+apprentice,1,75,300,cedar timber,apprentice,2,59,cedar plank,92,5,51,95,2,6
+apprentice,4,6,300,fir timber,apprentice,4,64,fir plank,88,5,48,58,3,6
+apprentice,4,64,300,mapple timber,apprentice,5,19,mapple plank,92,5,51,55,3,6
+apprentice,5,19,400,birch timber,apprentice,5,85,birch plank,117,5,69,66,3,6
+apprentice,5,85,300,fir timber,apprentice,6,31,fir plank,88,5,50,46,3,6
+apprentice,6,61,300,mapple timber,apprentice,7,4,mapple plank,85,5,NAN,43,3,6
+apprentice,7,4,300,birch timber,apprentice,7,42,birch plank,94,5,47,38,3,6
+apprentice,7,42,300,mapple timber,apprentice,7,80,mapple plank,83,5,45,38,3,6
+apprentice,7,80,300,mapple timber,apprentice,8,17,mapple plank,93,5,49,37,3,6
+apprentice,8,38,300,birch timber,apprentice,8,72,birch plank,87,5,48,34,3,6
+apprentice,8,92,300,cedar timber,apprentice,9,23,cedar plank,90,5,50,31,3,6
+apprentice,9,23,300,mapple timber,apprentice,9,53,mapple plank,90,5,49,30,3,6
+apprentice,9,54,300,ash timber,apprentice,9,84,ash plank,84,5,47,30,3,6
+apprentice,9,84,300,birch timber,apprentice,10,13,birch plank,92,5,54,29,3,6
+apprentice,10,41,400,cedar timber,apprentice,10,77,cedar plank,120,5,68,32,4,6
+apprentice,10,77,400,cedar timber,skilled,1,12,cedar plank,114,5,64,35,4,6
+skilled,1,12,400,fir timber,skilled,1,45,fir plank,,5,64,116,5,6

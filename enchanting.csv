@@ -1,0 +1,12 @@
+luck,item,item_lefel,level,result
+NAN,accessory,0,0,fail
+NAN,accessory,0,1,fail
+NAN,accessory,0,2,fail
+NAN,accessory,0,3,fail
+NAN,accessory,0,4,fail
+1,armor,5,5,win
+1,armor,5,0,fail
+NAN,weapon,9,14,fail
+2,armor,5,1,win
+2,armor,5,0,fail
+2.armor,5,1,win

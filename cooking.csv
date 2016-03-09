@@ -1,0 +1,13 @@
+profession,level,percentage,number,end_profession,end_level,end_percentage,produced,total,energy_cost,percentage_increase,luck,bonus
+beginner,10,0,19,beginner,10,72,beer,19,19,72,0,2
+apprentice,1,8,20,apprentice,1,69,beer,46,16,61,3,0
+apprentice,1,69,10,apprentice,2,0,beer,18,10,31,3,0
+apprentice,2,0,15,apprentice,2,37,beer,28,11,37,3,0
+apprentice,3,19,20,apprentice,3,64,beer,43,16,45,3,6
+apprentice,3,64,20,apprentice,4,7,beer,31,17,43,3,6
+apprentice,4,7,20,apprentice,4,46,beer,31,15,39,3,6
+apprentice,4,NAN,20,apprentice,4,84,beer,37,15,NAN,3,6
+apprentice,4,84,20,apprentice,5,20,beer,47,12,36,3,6
+apprentice,5,20,20,apprentice,5,53,beer,44,17,33,3,6
+apprentice,5,53,20,apprentice,5,86,beer,38,15,33,4,6
+apprentice,5,86,20,apprentice,6,17,beer,40,16,31,5,6
