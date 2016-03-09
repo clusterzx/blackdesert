@@ -9,4 +9,4 @@ NAN,accessory,0,4,fail
 NAN,weapon,9,14,fail
 2,armor,5,1,win
 2,armor,5,0,fail
-2.armor,5,1,win
+2,armor,5,1,win
