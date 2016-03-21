@@ -4,4 +4,14 @@ level,type,result
 16,skilled,fail
 17,skilled,win
 18,skilled,win
-18,skilled,
+18,skilled,fail
+18,skilled,win
+15,professional,fail
+13,professional,fail
+21,professional,fail
+22,professional,fail
+18,skilled,win
+21,skilled,fail
+20,skilled,fail
+18,skilled,fail
+21,skilled
