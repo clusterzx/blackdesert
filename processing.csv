@@ -51,7 +51,7 @@ profession_level,profession,level,percentage,number,type,end_profession,end_leve
 1,skilled,10,24,400,fir timber,skilled,10,38,139,69,14,3,13
 1,skilled,10,38,400,maple timber,skilled,10,52,149,57,14,3,13
 1,skilled,10,66,400,maple timber,skilled,10,80,155,63,14,3,13
-1,professional,1,7,400,birch timber,professional,18,175,56,11,3,13
+1,professional,1,7,400,birch timber,professional,1,18,175,56,11,3,13
 1,professional,1,31,400,cedar timber,professional,1,42,163,53,11,3,5
 1,professional,2,6,400,maple plank,professional,2,18,79,28,12,3,13
 1,professional,3,13,400,ash timber,professional,3,22,160,53,9,3,13
