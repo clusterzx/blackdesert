@@ -1,4 +1,4 @@
-success_level,profession,level,percentage,number,type,end_profession,end_level,end_percentage,total,energy_cost,percentage_increase,luck,bonus
+profession_level,profession,level,percentage,number,type,end_profession,end_level,end_percentage,total,energy_cost,percentage_increase,luck,bonus
 0,beginner,7,94,300,fir timber,beginner,9,55,90,57,161,0,0
 0,beginner,9,59,300,cedar timber,beginner,10,80,90,49,121,0,0
 0,beginner,10,80,300,cedar timber,apprentice,1,75,93,48,95,0,0
