@@ -5,3 +5,10 @@ level,skill,skill level,progress,quantity,item,produced,produced rare,energy con
 2,professional,7,56,400,ash timber,193,1,51,4,3,10
 2,professional,7,65,400,ash plank,98,0,126,4,3,18
 2,professional,7,66,400,maple timber,210,3,56,7,3,18
+2,professional,7,66,400,maple timber,210,3,56,7,3,18
+2,professional,7,94,400,flax,175,0,58,10,3,18
+2,professional,9,15,300,flax thread,85,0,18,5,3,18
+2,professional,9,20,100,copper ore,36,0,15,1,2,18
+2,professional,9,21,35,copper and zinc melted shard,16,0,4,1,2,18
+2,professional,9,22,400,birch timber,205,1,86,3,3,18
+2,professional,9,25,400,birch plank,104,0,33,3,3,18
